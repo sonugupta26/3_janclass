@@ -1,0 +1,4 @@
+def add(y):
+    x = 10
+    return x + y
+print(add(5)) 
